@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Siswa
+comment1.params=nrp
+comment1.target=Siswa(int)
+comment2.params=nrp
+comment2.target=void\ setNrp(int)
+comment3.params=
+comment3.target=int\ getNrp()
+numComments=4
